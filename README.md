@@ -55,6 +55,8 @@ python your_script_name.py
 - Ensure your webcam is functioning properly, as the hand tracking module relies on it.
 - The project is ideal for educational purposes, demonstrating the integration of computer vision, AI, and interactive interfaces.
 
+![image](https://github.com/user-attachments/assets/6cd36f5c-08f2-44c0-a67d-1056e6542fe5)
+
 ### License
 
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute the code as needed.
